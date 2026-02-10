@@ -10,22 +10,22 @@ __PowerShell__ is a powerful command-line shell and scripting language developed
 >  
 > Source: from the interview with Jeffrey Snover, PowerShell Inventor
 
-Why Learn PowerShell?
-PowerShell is an essential tool for:
-Automating repetitive tasks.
-Managing and configuring systems.
-Working with files, processes, and services.
-Interacting with APIs and web services.
-Writing scripts to solve complex problems.
+## Why Learn PowerShell?
+1. PowerShell is an essential tool for:
+2. Automating repetitive tasks.
+3. Managing and configuring systems.
+4. Working with files, processes, and services.
+5. Interacting with APIs and web services.
+6. Writing scripts to solve complex problems.
 
-PowerShell Features and Terms
-Cmdlets: Lightweight commands that perform specific functions.
-Scripting: Write and execute scripts, series of commands, to automate tasks.
-Pipeline: Chain commands together to pass data between them using |.
-Remote Management: Execute commands on remote systems.
-Modules: Extend functionality with additional cmdlets and scripts.
-Extensibility: Create custom functions, modules, and scripts.
-Cross-Platform: PowerShell Core runs on Windows, macOS, and Linux.
+## PowerShell Features and Terms
+* __Cmdlets__: Lightweight commands that perform specific functions.
+* __Scripting__: Write and execute scripts, series of commands, to automate tasks.
+* __Pipeline__: Chain commands together to pass data between them using |.
+* __Remote Management__: Execute commands on remote systems.
+* __Modules__: Extend functionality with additional cmdlets and scripts.
+* __Extensibility__: Create custom functions, modules, and scripts.
+* __Cross-Platform__: PowerShell Core runs on Windows, macOS, and Linux.
 
 PowerShell History
 
