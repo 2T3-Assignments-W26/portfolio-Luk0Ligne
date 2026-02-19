@@ -16,7 +16,7 @@
 |Remove items |`Remove-Item <Name>` |`rm` |
 |Create new item |`New-Item <Name>` |`mkdir`, `touch` |
 |Manage processes |`Get-Process`, `Stop-Process` ||
-|Manage services |`Get-Service`, `Start-Service` ||
+|Manage Services |`Get-Service`, `Start-Service` ||
 # About PowerShell
 
 [__PowerShell__](https://docs.microsoft.com/en-us/powershell/ ) is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview ), __PowerShell__ is both a ***command-line tool*** and ***a scripting environment***, making it a versatile tool for programmers and system administrators.
