@@ -69,6 +69,7 @@ PowerShell is an essential tool for:
 * `Stop-Process`: Stops a specific process.
 * `Set-Location`: Changes the current directory (like cd in Command Prompt).
 * `New-Item`: Creates a new file or directory.
+* `Get-Content`: Gets the contents of a file.
 
 ### Example Script
 
