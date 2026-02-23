@@ -50,6 +50,7 @@ __Check to see if Character = Enemy Position__
         }
 ```
 There is a few things overall i believe i could have improved on...
+
 Mainly:
 * Integrating foreach loops instead of normal for loops
 * Using 2D Loops 
