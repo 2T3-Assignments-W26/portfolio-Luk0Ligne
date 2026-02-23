@@ -74,7 +74,7 @@ PowerShell is an essential tool for:
 
 ### Example Script
 
-Here’s a simple script to list all files in a directory and display their sizes:
+Here is a simple script to list all files in a directory and display their sizes:
 ```
 # Get all files in the current directory
 $files = Get-ChildItem
