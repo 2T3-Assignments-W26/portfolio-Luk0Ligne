@@ -8,6 +8,8 @@
 ---
 The program in terms of logic and structure and doesnt use too many complexe terms due to being a first semester project. The main backbone of the game are a few arrays and the x, y postions. 
 
+Board Example Once Printed:
+![img](BoardExample.png)
 ### Code Snippets:
 __To Determine the Randomized "Dangerous" Enemies:__
 ```
@@ -52,6 +54,7 @@ Mainly:
 * Integrating foreach loops instead of normal for loops
 * Using 2D Loops 
 
+But I did learn alot about the structure of video games!
 
 # Project 2
 ## Second Programming II Assignement
@@ -102,7 +105,7 @@ __String Interpolation:__
                 Console.WriteLine($"{SID + 1}\t{firstNameArr[SID]}\t\t{lastNameArr[SID]}\t\t{finalGrades[SID]}%\t\t{salary[SID].ToString("c")} ");
             }
 ```
-This program could also benefit from foreach loops but im happier with the structure and logic from this assignement.
+This program could also benefit from foreach loops but im happier with the structure and logic from this assignement. I learnt alot on actually structuring well and building around someone else's structure (the teacher).
 
 # Subjective Comparison
 |Name|Difficulty|Satisfaction|To Improve|
